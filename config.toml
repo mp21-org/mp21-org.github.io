@@ -36,11 +36,11 @@ pygmentCodeFences = true
 
 [Author]
   name = "Markus Petzsch"
-  email = "markus@petzsch.eu"
+  email = "mail@mp21.org"
 #  facebook = "petzsch"
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
 #  gitlab = "petzsch"
-  github = "petzsch"
+  github = "mp21-org"
 #  twitter = "petzsch"
 #  reddit = "petzsch"
 #  linkedin = "petzsch"
